@@ -1,0 +1,10 @@
+C:\Users\Centeio\Desktop\lp2\projetobtn\projetobtn\bin\Debug\projetobtn.exe.config
+C:\Users\Centeio\Desktop\lp2\projetobtn\projetobtn\bin\Debug\projetobtn.exe
+C:\Users\Centeio\Desktop\lp2\projetobtn\projetobtn\bin\Debug\projetobtn.pdb
+C:\Users\Centeio\Desktop\lp2\projetobtn\projetobtn\obj\Debug\projetobtn.csproj.AssemblyReference.cache
+C:\Users\Centeio\Desktop\lp2\projetobtn\projetobtn\obj\Debug\projetobtn.Form1.resources
+C:\Users\Centeio\Desktop\lp2\projetobtn\projetobtn\obj\Debug\projetobtn.Properties.Resources.resources
+C:\Users\Centeio\Desktop\lp2\projetobtn\projetobtn\obj\Debug\projetobtn.csproj.GenerateResource.cache
+C:\Users\Centeio\Desktop\lp2\projetobtn\projetobtn\obj\Debug\projetobtn.csproj.CoreCompileInputs.cache
+C:\Users\Centeio\Desktop\lp2\projetobtn\projetobtn\obj\Debug\projetobtn.exe
+C:\Users\Centeio\Desktop\lp2\projetobtn\projetobtn\obj\Debug\projetobtn.pdb
